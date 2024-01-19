@@ -1,4 +1,4 @@
-#AOP using GUI-Event
+#Basic arithmetic operation using GUI-Event
 from tkinter import *
 #Object on class Tk
 window=Tk()
